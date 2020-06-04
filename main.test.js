@@ -23,12 +23,17 @@ return str;
 }
 
 function sayHi(str){
-  return "Hello " + str + '!'
+  return "Hello " + str + '!';
 
 }
 
 function divide(dividend, divisor){
- return dividend / divisor
+  return dividend / divisor;
+
+}
+
+function remainder(num, num1){
+return num % num1;
 }
 /*********************************************************************************************************************
 

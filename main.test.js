@@ -27,6 +27,9 @@ function sayHi(str){
 
 }
 
+function divide(dividend, divisor){
+ return dividend / divisor
+}
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *

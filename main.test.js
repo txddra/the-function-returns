@@ -1,6 +1,9 @@
 /******************
  * YOUR CODE HERE *
  ******************/
+let greeting = 'Hello';
+let sum = 0;
+let prod = 0;
 
 
 

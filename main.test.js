@@ -22,6 +22,11 @@ function returnWhatISay(str){
 return str;
 }
 
+function sayHi(str){
+  return "Hello " + str + '!'
+
+}
+
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *

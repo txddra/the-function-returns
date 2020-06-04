@@ -14,6 +14,9 @@ function sumOfTwo(num, num1){
 sum = num + num1;
 }
 
+function multiply(num, num1, num2){
+prod = num * num1 * num2;
+}
 
 /*********************************************************************************************************************
 

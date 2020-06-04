@@ -18,6 +18,10 @@ function multiply(num, num1, num2){
 prod = num * num1 * num2;
 }
 
+function returnWhatISay(str){
+return str;
+}
+
 /*********************************************************************************************************************
 
  * CODE BELOW HERE IS FOR INTERNAL USE ONLY! IT ENSURES THAT THE TESTING *
